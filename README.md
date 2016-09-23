@@ -15,5 +15,5 @@ Commnets
 
 
 # Test plan
-a++sscsTest plan
+Test plan
 
