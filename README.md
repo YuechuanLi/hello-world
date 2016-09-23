@@ -1,6 +1,10 @@
-# hello-world
+# Hello-World
 Hello world
 
-# section 1
+# Section 1
 Section 1
+
+# Function
+Function 1
+
 
